@@ -1,0 +1,2 @@
+# static_for_development
+ForGoogleCloudManage
